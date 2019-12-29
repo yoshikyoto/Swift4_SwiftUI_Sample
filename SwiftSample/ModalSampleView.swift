@@ -1,5 +1,6 @@
 import SwiftUI
 
+/// モーダルのサンプル
 struct ModalSampleView: View {
     // モーダルが開いているかどうかを表す State を用意する必要があります
     @State private var isShowingModal = false

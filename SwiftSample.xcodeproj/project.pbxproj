@@ -15,6 +15,7 @@
 		55FC454E23B93228007266CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55FC454C23B93228007266CB /* LaunchScreen.storyboard */; };
 		55FC455923B93229007266CB /* SwiftSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FC455823B93229007266CB /* SwiftSampleTests.swift */; };
 		55FC456423B93229007266CB /* SwiftSampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FC456323B93229007266CB /* SwiftSampleUITests.swift */; };
+		55FC457223B932EB007266CB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 55FC457123B932EB007266CB /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		55FC455F23B93229007266CB /* SwiftSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		55FC456323B93229007266CB /* SwiftSampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftSampleUITests.swift; sourceTree = "<group>"; };
 		55FC456523B93229007266CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		55FC457123B932EB007266CB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		55FC453523B9321B007266CB = {
 			isa = PBXGroup;
 			children = (
+				55FC457123B932EB007266CB /* README.md */,
 				55FC454023B9321B007266CB /* SwiftSample */,
 				55FC455723B93229007266CB /* SwiftSampleTests */,
 				55FC456223B93229007266CB /* SwiftSampleUITests */,
@@ -242,6 +245,7 @@
 			files = (
 				55FC454E23B93228007266CB /* LaunchScreen.storyboard in Resources */,
 				55FC454B23B93228007266CB /* Preview Assets.xcassets in Resources */,
+				55FC457223B932EB007266CB /* README.md in Resources */,
 				55FC454823B93228007266CB /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

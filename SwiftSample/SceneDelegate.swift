@@ -20,7 +20,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
 
         // Create the SwiftUI view that provides the window contents.
-        // ここをなんやかんや入れ替えてサンプルを試してください
+        // ここを入れ替えてサンプルを試してください
         let rootView = ModalSampleView()
 
         // Use a UIHostingController as window root view controller.
